@@ -1,2 +1,2 @@
 # git_test
-Testing Git
+Testing Git on local computer
